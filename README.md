@@ -14,3 +14,4 @@ Usage:
   
         ip or url
         
+![img](https://github.com/NewBeginning6/PortScan_go/blob/main/use.png)
