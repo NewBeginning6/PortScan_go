@@ -1,5 +1,6 @@
 # PortScan_go
 学习go语言,编写的并发端口扫描工具
+![img](https://github.com/NewBeginning6/PortScan_go/blob/main/use.png)
 Usage:
 
   -p string
@@ -14,4 +15,4 @@ Usage:
   
         ip or url
         
-![img](https://github.com/NewBeginning6/PortScan_go/blob/main/use.png)
+
